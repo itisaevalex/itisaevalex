@@ -17,7 +17,7 @@ I'm a cloud and machine learning specialist focused on building AI-powered appli
 
 ## 💼 Experience
 
-**AWS EMEA SMB, London** | Demand Generation Intern
+**Amazon Web Services, London** | Demand Generation Intern
 - Developed an AI sales pitch generator using AWS Bedrock Claude API
 - Implemented secure Whisper transcription, reducing manual effort by 99%
 
