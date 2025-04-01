@@ -5,15 +5,6 @@
 
 I'm a cloud and machine learning specialist focused on building AI-powered applications using AWS and modern development practices.
 
-## 🚀 Recent Projects
-
-### Lullabai - AI Powered Bedtime Storyteller
-- Serverless architecture using AWS Lambda, ECS, ELB, API Gateway
-- Voice cloning and narration system built with Flutter, Go, and Python
-
-### Web Crawler and News Alert System
-- Intelligent web crawler for gathering and analyzing company information
-- RSS feed classification with automated data management
 
 ## 💼 Experience
 
